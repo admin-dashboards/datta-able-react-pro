@@ -29,15 +29,15 @@ With Datta Able dashboard template we have provided all possible prebuilt admin 
 
 <br />
 
-> Widgets Page
-
-![Datta Able React PRO - Main Dashboard screen.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react-pro/main/media/datta-able-react-pro-screen-widgets.png)
-
-<br />
-
 > Dark Mode
 
 ![Datta Able React PRO - Dark Mode screen.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react-pro/main/media/datta-able-react-pro-screen-dark-mode.png)
+
+<br />
+
+> Charts Page
+
+![Datta Able React PRO - Charts screen.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react-pro/main/media/datta-able-react-pro-screen-charts.png)
 
 <br />
 
