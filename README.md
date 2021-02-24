@@ -6,8 +6,8 @@ Datta Able React is the most stylised React Admin Template, around all other adm
 
 <br />
 
-- [Datta Able React](https://bit.ly/33Vk0vn) - product page
-- **[Datta Able React PRO](https://bit.ly/36WPxz2) - more pages & components**
+- **[Datta Able React PRO](https://bit.ly/36WPxz2) - product page**
+- [Datta Able React](https://bit.ly/33Vk0vn) - FREE version (less pages & components)
  
 <br />
 
@@ -15,7 +15,29 @@ With Datta Able dashboard template we have provided all possible prebuilt admin 
 
 <br />
 
-![Datta Able React - Free Admin Template crafted by CodedThemes.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react/main/media/datta-able-react-intro.gif)
+![Datta Able React PRO - Premium Admin Template crafted by CodedThemes.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react-pro/main/media/datta-able-react-pro-intro.gif)
+
+<br />
+
+## Datta Able React - Screens
+
+<br />
+
+> Main Dashboard  
+
+![Datta Able React PRO - Main Dashboard screen.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react-pro/main/media/datta-able-react-pro-screen.png)
+
+<br />
+
+> Widgets Page
+
+![Datta Able React PRO - Main Dashboard screen.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react-pro/main/media/datta-able-react-pro-screen-widgets.png)
+
+<br />
+
+> Dark Mode
+
+![Datta Able React PRO - Dark Mode screen.](https://raw.githubusercontent.com/admin-dashboards/datta-able-react-pro/main/media/datta-able-react-pro-screen-dark-mode.png)
 
 <br />
 
